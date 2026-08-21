@@ -264,7 +264,6 @@ Set your own size for the markers:
 Combine Color Size and Alpha
 You can combine a colormap with different sizes of the dots. This is best visualized if the dots are transparent:
 
-Example
 Create random arrays with 100 values for x-points, y-points, colors and sizes:
 
 '''
